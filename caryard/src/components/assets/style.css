@@ -1,0 +1,46 @@
+.card-payment{
+    background-color:#0B4759;
+    text-align:center;
+    /* width: 30%; */
+    padding: 50px 50px;
+    margin: 50px;
+    border-radius: 20px
+   
+
+}
+p{
+    font-size: 34px;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card-input{
+    padding:5px 10px;
+    width:auto;
+    border:1px solid #fff;
+    margin: 5px;
+    border-radius: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+.card-input input{
+    border-top-color: transparent;
+}
+.card-btn{
+    padding:7px 70px;
+    background-color: transparent;
+    border-radius: 30px;
+    margin: 15px;
+    border: 1px solid white;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+
+    
+
+}
+.card-btn:hover{
+    color: black;
+    background-color: #fff;
+    transition: all 0.5s
+}
